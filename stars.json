@@ -7,14 +7,14 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 1209,
+    "stargazers_count": 1210,
     "open_issues_count": 9,
     "forks_count": 43
   },
   {
     "full_name": "dotansimha/graphql-code-generator",
-    "stargazers_count": 8796,
-    "open_issues_count": 444,
+    "stargazers_count": 8797,
+    "open_issues_count": 443,
     "forks_count": 1006
   },
   {
@@ -27,7 +27,7 @@
     "full_name": "reduxjs/redux-toolkit",
     "stargazers_count": 7922,
     "open_issues_count": 207,
-    "forks_count": 712
+    "forks_count": 713
   },
   {
     "full_name": "htmlhint/HTMLHint",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "mui/material-ui",
-    "stargazers_count": 79041,
-    "open_issues_count": 1113,
-    "forks_count": 27233
+    "stargazers_count": 79045,
+    "open_issues_count": 1112,
+    "forks_count": 27234
   },
   {
     "full_name": "carloscuesta/gitmoji-cli",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 7956,
+    "stargazers_count": 7959,
     "open_issues_count": 202,
     "forks_count": 394
   },
@@ -74,7 +74,7 @@
   {
     "full_name": "rainbow-me/rainbow",
     "stargazers_count": 2726,
-    "open_issues_count": 75,
+    "open_issues_count": 76,
     "forks_count": 385
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 1939,
+    "stargazers_count": 1941,
     "open_issues_count": 22,
     "forks_count": 26
   },
@@ -105,7 +105,7 @@
     "full_name": "callstack/repack",
     "stargazers_count": 778,
     "open_issues_count": 37,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "dprint/dprint",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "jaredpalmer/formik",
-    "stargazers_count": 30558,
+    "stargazers_count": 30560,
     "open_issues_count": 721,
     "forks_count": 2543
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 95471,
+    "stargazers_count": 95478,
     "open_issues_count": 1698,
-    "forks_count": 24714
+    "forks_count": 24717
   },
   {
     "full_name": "wix/Detox",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "stitchesjs/stitches",
-    "stargazers_count": 5676,
+    "stargazers_count": 5679,
     "open_issues_count": 77,
     "forks_count": 162
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 93930,
+    "stargazers_count": 93933,
     "open_issues_count": 201,
     "forks_count": 9567
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 11911,
+    "stargazers_count": 11912,
     "open_issues_count": 10,
     "forks_count": 664
   }
