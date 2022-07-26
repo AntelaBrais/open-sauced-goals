@@ -1,27 +1,27 @@
 [
   {
     "full_name": "vercel/nft",
-    "stargazers_count": 760,
+    "stargazers_count": 761,
     "open_issues_count": 19,
     "forks_count": 42
   },
   {
     "full_name": "vercel/ms",
-    "stargazers_count": 4115,
-    "open_issues_count": 14,
+    "stargazers_count": 4119,
+    "open_issues_count": 15,
     "forks_count": 246
   },
   {
     "full_name": "facebook/jscodeshift",
-    "stargazers_count": 7604,
+    "stargazers_count": 7615,
     "open_issues_count": 113,
-    "forks_count": 433
+    "forks_count": 435
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 72920,
-    "open_issues_count": 1929,
-    "forks_count": 7542
+    "stargazers_count": 72977,
+    "open_issues_count": 1941,
+    "forks_count": 7553
   },
   {
     "full_name": "chdsbd/kodiak",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 3846,
-    "open_issues_count": 222,
-    "forks_count": 254
+    "stargazers_count": 3868,
+    "open_issues_count": 224,
+    "forks_count": 256
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 12587,
-    "open_issues_count": 81,
-    "forks_count": 724
+    "stargazers_count": 12759,
+    "open_issues_count": 54,
+    "forks_count": 733
   },
   {
     "full_name": "adobe/react-spectrum",
-    "stargazers_count": 6866,
-    "open_issues_count": 399,
-    "forks_count": 543
+    "stargazers_count": 6885,
+    "open_issues_count": 397,
+    "forks_count": 544
   },
   {
     "full_name": "nandorojo/doorman",
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "nandorojo/solito",
-    "stargazers_count": 1325,
-    "open_issues_count": 9,
+    "stargazers_count": 1337,
+    "open_issues_count": 5,
     "forks_count": 52
   },
   {
     "full_name": "dotansimha/graphql-code-generator",
-    "stargazers_count": 8986,
-    "open_issues_count": 457,
-    "forks_count": 1034
+    "stargazers_count": 9001,
+    "open_issues_count": 464,
+    "forks_count": 1037
   },
   {
     "full_name": "graphql-nexus/nexus",
-    "stargazers_count": 3036,
+    "stargazers_count": 3040,
     "open_issues_count": 233,
     "forks_count": 269
   },
   {
     "full_name": "reduxjs/redux-toolkit",
-    "stargazers_count": 8156,
-    "open_issues_count": 202,
-    "forks_count": 750
+    "stargazers_count": 8178,
+    "open_issues_count": 200,
+    "forks_count": 754
   },
   {
     "full_name": "htmlhint/HTMLHint",
-    "stargazers_count": 2817,
-    "open_issues_count": 55,
-    "forks_count": 365
+    "stargazers_count": 2820,
+    "open_issues_count": 45,
+    "forks_count": 367
   },
   {
     "full_name": "mui/material-ui",
-    "stargazers_count": 79971,
-    "open_issues_count": 1170,
-    "forks_count": 27567
+    "stargazers_count": 80047,
+    "open_issues_count": 1179,
+    "forks_count": 27599
   },
   {
     "full_name": "carloscuesta/gitmoji-cli",
-    "stargazers_count": 3852,
+    "stargazers_count": 3854,
     "open_issues_count": 6,
-    "forks_count": 187
+    "forks_count": 188
   },
   {
     "full_name": "BeardedBear/bearded-icons",
@@ -103,80 +103,80 @@
   },
   {
     "full_name": "BeardedBear/bearded-theme",
-    "stargazers_count": 189,
-    "open_issues_count": 4,
-    "forks_count": 30
+    "stargazers_count": 191,
+    "open_issues_count": 5,
+    "forks_count": 31
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 8420,
-    "open_issues_count": 192,
-    "forks_count": 458
+    "stargazers_count": 8456,
+    "open_issues_count": 195,
+    "forks_count": 459
   },
   {
     "full_name": "argyleink/open-props",
-    "stargazers_count": 2173,
+    "stargazers_count": 2178,
     "open_issues_count": 31,
     "forks_count": 91
   },
   {
     "full_name": "rainbow-me/rainbow",
     "stargazers_count": 2808,
-    "open_issues_count": 53,
+    "open_issues_count": 50,
     "forks_count": 396
   },
   {
     "full_name": "callstack/react-native-builder-bob",
-    "stargazers_count": 1628,
+    "stargazers_count": 1632,
     "open_issues_count": 52,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "expo/create-react-native-app",
-    "stargazers_count": 12994,
+    "stargazers_count": 12995,
     "open_issues_count": 11,
     "forks_count": 1439
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 2101,
-    "open_issues_count": 6,
+    "stargazers_count": 2116,
+    "open_issues_count": 2,
     "forks_count": 30
   },
   {
     "full_name": "gorhom/react-native-portal",
-    "stargazers_count": 355,
+    "stargazers_count": 359,
     "open_issues_count": 7,
     "forks_count": 25
   },
   {
     "full_name": "callstack/repack",
-    "stargazers_count": 827,
+    "stargazers_count": 830,
     "open_issues_count": 23,
     "forks_count": 48
   },
   {
     "full_name": "dprint/dprint",
-    "stargazers_count": 1457,
+    "stargazers_count": 1459,
     "open_issues_count": 38,
     "forks_count": 29
   },
   {
     "full_name": "jaredpalmer/formik",
-    "stargazers_count": 30811,
+    "stargazers_count": 30842,
     "open_issues_count": 727,
-    "forks_count": 2565
+    "forks_count": 2572
   },
   {
     "full_name": "electrode-io/electrode-native",
-    "stargazers_count": 691,
+    "stargazers_count": 692,
     "open_issues_count": 91,
     "forks_count": 113
   },
   {
     "full_name": "necolas/react-native-web",
-    "stargazers_count": 20105,
+    "stargazers_count": 20112,
     "open_issues_count": 91,
-    "forks_count": 1714
+    "forks_count": 1717
   }
 ]
